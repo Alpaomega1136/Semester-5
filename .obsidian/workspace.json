@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "ef0f123d0233b1b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "0da4121116d37d53",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f249e8cb3e20ee16",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0af1921389533357",
+    "type": "split",
+    "children": [
+      {
+        "id": "32b4ac0c8dbb3f11",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3e1e625e848d2f8d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "aea714defdd41806",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "69bc9fc628e51596",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "481c0f5baa544ae0",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b4dacfc6e3c3aad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "508348b649b2196a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Sistem Pararel Terdistribusi - IF3130/hagdagdada.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "ec2bdc5e71fc22c8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Sistem Pararel Terdistribusi - IF3130/hagdagdada.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "afed95a58f280893",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5f2c646d786a880c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "f18a76685e6444a6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Sistem Pararel Terdistribusi - IF3130/hagdagdada.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "f249e8cb3e20ee16",
+  "lastOpenFiles": [
+    "Sistem Pararel Terdistribusi - IF3130/Materi/30 - Review.pdf",
+    "Sistem Pararel Terdistribusi - IF3130/Materi/29 - Mutual Exclusion.pdf",
+    "Sistem Pararel Terdistribusi - IF3130/Materi/28 - Raft Consensus.pdf",
+    "Sistem Pararel Terdistribusi - IF3130/Materi/26 - Google File System.pdf",
+    "Sistem Pararel Terdistribusi - IF3130/Materi/25 - Andrew File System.pdf",
+    "Sistem Pararel Terdistribusi - IF3130/Materi/24 - Distributed File System.pdf",
+    "Sistem Pararel Terdistribusi - IF3130/Materi/22 - Naming.pdf",
+    "Sistem Pararel Terdistribusi - IF3130/Materi/21 - RPC dan Communication.pdf",
+    "Sistem Pararel Terdistribusi - IF3130/Materi/20 - Communication.pdf",
+    "Sistem Pararel Terdistribusi - IF3130/Materi/17 - Pengenalan Sistem Terdistribusi.pdf",
+    "Sistem Pararel Terdistribusi - IF3130/Materi/16 - GPU 8 - CUDA.pdf",
+    "Untitled.canvas",
+    "Sistem Basis Data - IF3140/Tugas/Tugas Sistem Basis Data 1.md",
+    "Untitled.md",
+    "Sistem Pararel Terdistribusi - IF3130/hagdagdada.md",
+    "2026-09-01.md"
+  ]
+}
