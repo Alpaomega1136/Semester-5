@@ -33,3 +33,14 @@ Prinsip dasar komunikasi efektif :
 3. Audible (dapat didengar) ; Audible mengandung makna pesan yang harus dapat didengarkan dan dimengerti. (mudah dimengerti, sampaikan yang penting, gunakan bahasa tubuh, gunakan ilustrasi atau contoh)
 4. Clarity (jelas) ; kejelasan dari pesan yang kita sampaikan
 5. Humble (rendah hati) ; membebrikan kesempatan kepada orang lain untuk berbicara terlebih dahulu, dan anda menjadi pendengar yang baik
+
+# Etika Berkomunikasi
+Tidakan yang perlu dipertimbangkan
+1. Tidak mengucapkan kata-kata kasar atau mencari
+2. Tidak 
+
+Jarak Individu dalam berkomunikasi (Allan Pease, 1981)
+- The intimate zone -> berbicara dengan teman dekat/teman spesial
+- The personal zone -> berbicara dalam kegiatan sosial
+- the social zone -> berbicara dengan orang asing
+- the public zone -> berbicara dengan kelompok

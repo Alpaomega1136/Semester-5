@@ -151,9 +151,7 @@ Karena local search mencari state yang "lebih baik", kita membutuhkan suatu nila
 
 Pada contoh 8-Queens di materi digunakan:
 
-\[
-h = -(\text{jumlah pasangan queen yang saling menyerang})
-\]
+\[h = -(\text{jumlah pasangan queen yang saling menyerang})\]
 
 Contoh:
 

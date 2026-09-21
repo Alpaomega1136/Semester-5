@@ -4,35 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "28f5d6b5954d2ba9",
+        "id": "7f577985edac8b61",
         "type": "tabs",
         "children": [
           {
-            "id": "278aa178a41b7867",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "710a6db6d8f2862e",
+            "id": "2bbf105f9130b27a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sistem Basis Data - IF3140/Catatan/03 - Indexing.md",
+                "file": "Komunikasi Efektif - Minggu 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03 - Indexing"
+              "title": "Komunikasi Efektif - Minggu 3"
+            }
+          },
+          {
+            "id": "1cddef0a82d760e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sistem Basis Data - IF3140/Tugas/Tugas Sistem Basis Data 5.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tugas Sistem Basis Data 5"
+            }
+          },
+          {
+            "id": "d6f7a54e817734b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sistem Basis Data - IF3140/Tugas/Tugas Sistem Basis Data 6.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tugas Sistem Basis Data 6"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistem Pararel Terdistribusi - IF3130/hagdagdada.md",
+                "file": "Inteligensi Artifisial - IF3170/Materi/IF3170_Materi02a.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,28 +217,40 @@
       "bases:Create new base": false
     }
   },
-  "active": "710a6db6d8f2862e",
+  "active": "d6f7a54e817734b3",
   "lastOpenFiles": [
-    "Sistem Basis Data - IF3140/Catatan/02 - Storage, File-structure.md",
-    "Sistem Basis Data - IF3140/Catatan/03 - Indexing.md",
-    "Sistem Basis Data - IF3140/Catatan/01 - Performance Tuning.md",
+    "Sistem Basis Data - IF3140/Tugas/Tugas Sistem Basis Data 5.md",
+    "Sistem Basis Data - IF3140/Tugas/Tugas Sistem Basis Data 6.md",
+    "Sistem Basis Data - IF3140/Referensi/Pasted image 20260917192826.png",
+    "Sistem Basis Data - IF3140/Referensi/Pasted image 20260917192812.png",
+    "Inteligensi Artifisial - IF3170/Tugas/IF3170-Latihan Local-Search.pdf",
+    "Jurnalisme - Minggu 4.md",
     "Komunikasi Efektif - Minggu 3.md",
+    "Sistem Basis Data - IF3140/Referensi/Pasted image 20260916102254.png",
+    "Sistem Basis Data - IF3140/Referensi/Pasted image 20260916102203.png",
+    "Pasted image 20260916102048.png",
+    "Pasted image 20260916102029.png",
+    "Pasted image 20260916101714.png",
+    "Inteligensi Artifisial - IF3170/catatan/02 - Local Search.md",
+    "Inteligensi Artifisial - IF3170/Materi/IF3170_Materi02a.pdf",
+    "Inteligensi Artifisial - IF3170/Materi/IF3170_Materi01a.pdf",
+    "Inteligensi Artifisial - IF3170/catatan/01 - Pengantar Inteligensi Artifisial.md",
+    "Sistem Basis Data - IF3140/Materi/6 - Query Processing.pdf",
+    "Sistem Basis Data - IF3140/Materi/5 - Skema dan Indeks Tuning.pdf",
+    "Sistem Basis Data - IF3140/Tugas/Tugas Sistem Basis Data 3.md",
+    "Sistem Basis Data - IF3140/Referensi/Pasted image 20260911070729.png",
+    "Sistem Basis Data - IF3140/Tugas/Tugas Sistem Basis Data 1.md",
+    "Sistem Basis Data - IF3140/Referensi",
+    "Sistem Basis Data - IF3140/Catatan/03 - Indexing.md",
+    "Sistem Basis Data - IF3140/Catatan/02 - Storage, File-structure.md",
+    "Sistem Basis Data - IF3140/Catatan/01 - Performance Tuning.md",
     "Sistem Basis Data - IF3140/Catatan",
     "Sistem Informasi - IF3141/Tugas/tugas2-kel1.pdf",
-    "Inteligensi Artifisial - IF3170/Tugas/IF3170-Latihan Local-Search.pdf",
     "Sistem Informasi - IF3141/Materi/1 Pengantar Konsep SI.pdf",
-    "Inteligensi Artifisial - IF3170/catatan/02 - Local Search.md",
     "Sistem Basis Data - IF3140/Materi/4 - Indexing.pdf",
-    "Sistem Basis Data - IF3140/Materi/3 - Storage and File Structure.pdf",
-    "Inteligensi Artifisial - IF3170/catatan/01 - Pengantar Inteligensi Artifisial.md",
-    "Inteligensi Artifisial - IF3170/catatan",
     "Tucil IMK - Interaksi Komputer.md",
-    "Interaksi Manusia Komputer - IF3151/Tugas",
-    "Inteligensi Artifisial - IF3170/Materi/IF3170_Materi00.pdf",
-    "Untitled.base",
     "2026-09-01.md",
     "Untitled.canvas",
-    "Sistem Basis Data - IF3140/Tugas/Tugas Sistem Basis Data 1.md",
     "Sistem Pararel Terdistribusi - IF3130/hagdagdada.md"
   ]
 }
